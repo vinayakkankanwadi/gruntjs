@@ -1,0 +1,25 @@
+{
+  "name": "gruntjs",
+  "version": "1.0.0",
+  "description": "Hello World from GruntJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakkankanwadi/gruntjs.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Vinayak Kankanwadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinayakkankanwadi/gruntjs/issues"
+  },
+  "homepage": "https://github.com/vinayakkankanwadi/gruntjs#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}

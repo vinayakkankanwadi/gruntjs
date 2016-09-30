@@ -14,7 +14,7 @@ ISSUE
 
 ####ISSUE 1: grunt' is not recognized as an internal or external command 
 
-``
+```
 Install grunt-cli as in http://gruntjs.com/getting-started
 
 npm install -g grunt-cli
